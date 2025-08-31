@@ -1,3 +1,4 @@
+package Grunnleggende;
 public class G3 {
     
 

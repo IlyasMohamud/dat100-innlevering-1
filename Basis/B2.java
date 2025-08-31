@@ -1,3 +1,4 @@
+package Basis;
 import java.util.Scanner;
 
 public class B2 {

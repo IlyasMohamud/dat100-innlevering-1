@@ -1,3 +1,4 @@
+package Grunnleggende;
 public class G2 {
     public static void main(String args[]) {
         /*
