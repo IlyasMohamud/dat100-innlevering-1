@@ -34,7 +34,7 @@ public class B4 {
 
         // UPDATE jeg kjører en iterasjon for mye startet i på 0 med uhell. Nå fikset begge får 8  med x = 2 og y = 3 som er riktig
 
-        // Funker ikke for tall som er mindre enn 0 eller negative tall
+        // Funker ikke for tall som er mindre enn 0 eller negative tall og gjorde input som double
 
         
 
