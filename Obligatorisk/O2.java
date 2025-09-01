@@ -9,15 +9,15 @@ public class O2 {
         Scanner sc = new Scanner(System.in);
         System.out.println("What is your grade?");
         int grade = sc.nextInt();
+         sc.close();
         
 
         if(grade > 100 || grade < 0){
             System.out.println("Invalid Grade");
-            sc.close();
             return;
         }
 
-         sc.close();
+        
         if(grade >= 90){
             System.out.println("You got an A");
             return;
